@@ -89,8 +89,18 @@ export const Contact = () => {
             >
               Send Message
             </button>
+            
           </form>
+          
         </div>
+        <div class="col-md-6 col-lg-3 d-flex ftco-animate">
+          	<div class="align-self-stretch box p-4 text-center">
+          		<div class="icon d-flex align-items-center justify-content-center">
+          			<span class="icon-globe"></span>
+          		</div>
+	            <p><a href="https://drive.google.com/file/d/19_60fbsJsAfFB-w3_InRpCa5eHldiMHw/view?usp=drive_link">Download Resume</a></p>
+	          </div>
+          </div>
       </RevealOnScroll>
     </section>
   );
